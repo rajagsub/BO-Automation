@@ -1,0 +1,198 @@
+PINPTPCT,Inpatient Accommodations and,in,Ancillaries
+NINPPCT,Inpatient Accommodations and,out,Ancillaries
+AIPEMGADPCT,Inpatient Accommodations and,in ,Ancillaries
+PASCPCT,Ambulatory Surgical Center Institutional,in,?
+NASCPCTPD,Ambulatory Surgical Center Institutional,out,?
+PSNFPCT,Skilled Nursing Facility,in,?
+NSNFPCT,Skilled Nursing Facility,out,?
+PMWHPCT,Inpatient Professional Medical Care,in,?
+NMWHPCT,Inpatient Professional Medical Care,out,?
+PMWHCONSLPCT,Inpatient Professional Medical Care,in,?
+NMWHCONSLPCT,Inpatient Professional Medical Care,out,?
+PEMGPCT,Emergency Room,in,(Institutional)
+NEMGPCT,Emergency Room,out,(Institutional)
+PERPROFPCT,Emergency Room,in,Physician
+NERPROFPCT,Emergency Room,out,Physician
+POTPMEDPCT,Outpatient Medical Institutional,in,?
+NOTPMEDPCT,Outpatient Medical Institutional,out,?
+POTPDXLPCT,DXL Outpatient Institutional,in,?
+NOTPDXLPCT,DXL Outpatient Institutional,out,?
+POUTPMDPCT,Outpatient Physician,in,?
+NOUTPMDPCT,Outpatient Physician,out,?
+POPURGCRPCT,Urgent Care Outpatient Institutional,in,?
+NOPURGCRPCT,Urgent Care Outpatient Institutional,out,?
+PAMBPCT,Ground Ambulance,in,?
+NAMBPCT,Ground Ambulance,out,?
+PAIRPCT,Air Ambulance,in,?
+NAIRPCT,Air Ambulance,out,?
+PBRSTPMPSPCT,Women's Health Provision,in,?
+NBRSTPMPSPCT,Women's Health Provision,out,?
+PWPSCONTRPCT,Women's Health Provision,in,?
+NWPSCONTRPCT,Women's Health Provision,out,?
+PFMLSTRLZPCT,Women's Health Provision,in,?
+NFMLSTRLZPCT,Women's Health Provision,out,?
+PRTNCOLGRDPA,Colon cancer screenings (routine),in,?
+NRTNCOLGRDPA,Colon cancer screenings (routine),out,?
+PPRVADLTROUT,Exam - Routine Adult physical,in,?
+NPRVADLTROUT,Exam - Routine Adult physical,out,?
+PFLUSHOTPAY,Flu Shot (routine),in,?
+NFLUSHOTPAY,Flu Shot (routine),out,?
+PADLTIMUNPCT,Immunizations - child and adult (routine),in,?
+NADLTIMUNPCT,Immunizations - child and adult (routine),out,?
+PADLTREDXLPY,Diagnostic X-rays and Lab tests (routine),in,?
+NADLTREDXLPY,Diagnostic X-rays and Lab tests (routine),out,?
+PPRSTSCRNPY,Prostate Cancer Screening - PSA,in,(routine)
+NPRSTSCRNPY,Prostate Cancer Screening - PSA,out,(routine)
+PCOLRECSCRPY,Colon cancer screenings (routine),in,?
+NCOLRECSCRPY,Colon cancer screenings (routine),out,?
+PCOLNPCT,Colon cancer screenings (routine),in,?
+NCOLNPCT,Colon cancer screenings (routine),out,?
+PCHOLSCRPCT,Diagnostic X-rays and Lab tests (routine),in,?
+NCHOLSCRPCT,Diagnostic X-rays and Lab tests (routine),out,?
+PRTNHEARPAY,Diagnostic X-rays and Lab tests (routine),in,?
+NRTNHEARPAY,Diagnostic X-rays and Lab tests (routine),out,?
+PRTNVSNSPAY,Diagnostic X-rays and Lab tests (routine),in,?
+NRTNVSNSPAY,Diagnostic X-rays and Lab tests (routine),out,?
+PPRVCHLPCT,Exam - Well Child Care,in,?
+NPRVCHLPCT,Exam - Well Child Care,out,?
+PCHLIMUNPCT,Immunizations - child and adult (routine),in,?
+NCHLIMUNPCT,Immunizations - child and adult (routine),out,?
+PCHFLUVACPAY,Flu Shot (routine),in,?
+NCHFLUVACPAY,Flu Shot (routine),out,?
+CHLDXLPAYPAR,Diagnostic X-rays and Lab tests (routine),in,?
+CHLDXLPAYNP,Diagnostic X-rays and Lab tests (routine),out,?
+PCHLHESCRPAY,Diagnostic X-rays and Lab tests (routine),in,?
+NCHLHESCRPAY,Diagnostic X-rays and Lab tests (routine),out,?
+PCHLVISCRPAY,Diagnostic X-rays and Lab tests (routine),in,?
+NCHLVISCRPAY,Diagnostic X-rays and Lab tests (routine),out,?
+PWWEXAMPAY,Women's Health Provision,in,?
+NWWEXAMPAY,Women's Health Provision,out,?
+PWLWMPAPPCT,Pap smear (routine),in,?
+NWLWMPAPPCT,Pap smear (routine),out,?
+PWWMAMPCT,Mammography (routine),in,?
+NWWMAMPCT,Mammography (routine),out,?
+PPHOPCT,Office Visits Office Professional,in,?
+NPHOPCT,Office Visits Office Professional,out,?
+PURGCAREPCT,Urgent Care Office Professional,in,?
+NURGCAREPCT,Urgent Care Office Professional,out,?
+PRETLHLTHPAY,Retail Health Clinics,in,?
+NRETLHLTHPAY,Retail Health Clinics,out,?
+PINJPAYPCT,Injections Office Professional,in,?
+NINJPAYPCT,Injections Office Professional,out,?
+PALRGTESTPAY,Allergy Testing,in,?
+NALRGTESTPAY,Allergy Testing,out,?
+PALRGTXCOPCT,Allergy Treatment,in,?
+NALRGTXCOPCT,Allergy Treatment,out,?
+PVISEXAM,Vision Exam (non-routine) Office,in,Professional
+NPVISEXAM,Vision Exam (non-routine) Office,out,Professional
+PHEAREXMPCT,Hearing Exam (non-routine) Office,in,?
+NHEAREXMPCT,Hearing Exam (non-routine) Office,out,?
+PNUTRICOUPAY,Nutritional Counseling Office,in,Professional
+NNUTRICOUPAY,Nutritional Counseling Office,out,Professional
+PDERMPAYPCT,Office Visits Office Professional,in,?
+NDERMPAYPCT,Office Visits Office Professional,out,?
+PDERMSURGPY,Surgery Office Professional,in,?
+NDERMSURGPY,Surgery Office Professional,out,?
+PDERMLABPAY,DXL In Office,in,?
+NDERMLABPAY,DXL In Office,out,?
+PDIABEDPCT,Diabetes Education/Diabetic Nutritional,in,Counseling Outpatient Professional
+NDIABEDPCT,Diabetes Education/Diabetic Nutritional,out,Counseling Outpatient Professional
+PDIABSUPPAY,Diabetic Supply,in,?
+NDIABSUPPAY,Diabetic Supply,out,?
+POVCONPCT,Second Opinion Outpatient,in,Professional
+NPHOCONPCT,Second Opinion Outpatient,out,Professional
+PDENINJPCT,Dental,in,?
+NDENINJPCT,Dental,out,?
+PDXLPCT,DXL Outpatient Professional,in,?
+NDXLPCT,DXL Outpatient Professional,out,?
+PDXLOFFPCT,DXL In Office,in,?
+NDXLOFFPCT,DXL In Office,out,?
+PINDEPLABPCT,DXL Independent Lab,in,?
+NINDEPLABPCT,DXL Independent Lab,out,?
+PIPDXLPAY,DXL Inpatient Professional,in,?
+NIPDXLPAY,DXL Inpatient Professional,out,?
+PALRGTSTPCT,Allergy Testing,in,?
+NALRGTSTPCT,Allergy Testing,out,?
+PBLOODPAYPCT,Blood,in,?
+NBLOODPAYPCT,Blood,out,?
+PIMAGCTRPCT,High Diagnostic Imaging,in,?
+NIMAGCTRPCT,High Diagnostic Imaging,out,?
+PHEMOPCT,Dialysis/Hemodialysis Therapy,in,Outpatient Professional
+PCHEMOPCT,Chemotherapy Outpatient Professional,in,?
+NCHEMOPCT,Chemotherapy Outpatient Professional,out,?
+PRADPCT,Radiation Therapy Outpatient,in,Professional
+NRADPCT,Radiation Therapy Outpatient,out,Professional
+PSURGPCT,Surgery Outpatient Professional,in,?
+NSURGPCT,Surgery Outpatient Professional,out,?
+PASSTSRGPCT,Assistant Surgeon Outpatient,in,Professional
+NASSTSRGPCT,Assistant Surgeon Outpatient,out,Professional
+PANES/ISTPY%,Anesthesia Outpatient Professional,in,?
+NANES/ISTPY%,Anesthesia Outpatient Professional,out,?
+PDENIMPACTSG,Oral Surgery,in,?
+NDENIMPACTSG,Oral Surgery,out,?
+PGLASAFTSRGP,Glasses/Contacts after Cataract Surgery,in,?
+NGLASAFTSRGP,Glasses/Contacts after Cataract Surgery,out,?
+PSRGCONTACPT,Glasses/Contacts after Cataract Surgery,in,?
+NSRGCONTACPT,Glasses/Contacts after Cataract Surgery,out,?
+POBPCT,Maternity Care Outpatient Professional,in,?
+NOBPCT,Maternity Care Outpatient Professional,out,?
+PFAMPLNPCT,Office Visits Office Professional,in,?
+NFAMPLNPCT,Office Visits Office Professional,out,?
+POBSTRLPCT,Sterilization - services that do not meet,in,?
+NOBSTRLPCT,Sterilization - services that do not meet,out,?
+PPHTPCT,Physical Therapy Outpatient,in,Professional
+NPHTPCT,Physical Therapy Outpatient,out,Professional
+PPHTCHRPCT,Chiropractic Office Professional,in,?
+NPHTCHRPCT,Chiropractic Office Professional,out,?
+PACCUPCT,Acupuncture Outpatient Professional,in,?
+NACCUPCT,Acupuncture Outpatient Professional,out,?
+PSPTPCT,Speech Therapy Outpatient Professional,in,?
+NSPTPCT,Speech Therapy Outpatient Professional,out,?
+POCCUPCT,Occupational Therapy Outpatient,in,Professional
+NOCCUPCT,Occupational Therapy Outpatient,out,Professional
+PRESPTHPCT,Respiratory Therapy Outpatient,in,Professional
+NRESPTHPCT,Respiratory Therapy Outpatient,out,Professional
+PCARREHABPCT,Cardiac Rehab Outpatient Professional,in,?
+NCARREHABPCT,Cardiac Rehab Outpatient Professional,out,?
+PBIOFEEDPAY,Biofeedback Outpatient Professional,in,?
+NBIOFEEDPAY,Biofeedback Outpatient Professional,out,?
+PDMEPCT,Durable Medical Equipment,in,?
+NDMEPCT,Durable Medical Equipment,out,?
+PPROSTHPCT,Prosthetics and Orthotics,in,?
+NPROSTHPCT,Prosthetics and Orthotics,out,?
+PMEDSUPLYPAY,Medical Supply,in,?
+NMEDSUPLYPAY,Medical Supply,out,?
+PORTHOTICPCT,Prosthetics and Orthotics,in,?
+NORTHOTICPCT,Prosthetics and Orthotics,out,?
+PINSULINPCT,Diabetic Supply,in,?
+NINSULINPCT,Diabetic Supply,out,?
+PTMJPCT,TMJ Treatment,in,?
+NTMJPCT,TMJ Treatment,out,?
+PHHCPCT,HOME HEALTH CARE,in,?
+NHHCPCT,HOME HEALTH CARE,out,?
+PHSPPCT,Hospice,in,?
+NHSPPCT,Hospice,out,?
+PINPTRESCPY,Hospice,in,?
+NINPTRESCPY,Hospice,out,?
+PBREVPCT,Bereavement Counseling,in,?
+NBREVPCT,Bereavement Counseling,out,?
+PNURSPRVTPCT,Private Duty Nursing,in,?
+NNURSPRVTPCT,Private Duty Nursing,out,?
+PHITPCT,Home Infusion Therapy,in,?
+NHITPCT,Home Infusion Therapy,out,?
+PMENPCT,Mental Health - Inpatient Institutional,in,?
+NMENPCT,Mental Health - Inpatient Institutional,out,?
+PRESHOSPAY,Mental Health - Residential Treatment,in,Centers - Inpatient
+NRESHOSPAY,Mental Health - Residential Treatment,out,Centers - Inpatient
+POTPMENPCT,Mental Health - Outpatient Institutional,in,?
+NOTPMENPCT,Mental Health - Outpatient Institutional,out,?
+PINTEOPTPPAY,Mental Health - Intensive Outpatient,in,Therapy (IOP) Institutional
+NINTEOPTPPAY,Mental Health - Intensive Outpatient,out,Therapy (IOP) Institutional
+PPMENPCT,Mental Health - Outpatient Professional,in,?
+NPMENPCT,Mental Health - Outpatient Professional,out,?
+PMENMWHPCT,Mental Health - Inpatient Professional,in,?
+NMENMWHPCT,Mental Health - Inpatient Professional,out,?
+PTELEHSVSPAY,Online Visits (Telehealth) - Mental Health,in,?
+NTELEHSVSPAY,Online Visits (Telehealth) - Mental Health,out,?
+PTELEPSVSPAY,Telephonic Visits - Mental Health,in,?
+NTELEPSVSPAY,Telephonic Visits - Mental Health,out,?

@@ -1,0 +1,78 @@
+INPTPCTPD,Inpatient Accommodations and Ancillaries,in,?
+ASCPCTPD,Ambulatory Surgical Center Institutional,in,?
+SNFPCTPD,Skilled Nursing Facility,in,?
+MWHPCTPD,Inpatient Professional Medical Care,in,?
+OTPPCT,Outpatient Medical Institutional,in,?
+OUTPMDPCT,Outpatient Physician,in,?
+OPURGCRPCT,Urgent Care Outpatient Institutional,in,?
+AMBPCT,Ground Ambulance,in,?
+AMBNOEMRGPCT,Non-Emergency Ground Ambulance,in,?
+AIRPCT,Air Ambulance,in,?
+AIRNOEMERGPT,Non-Emergency Air Ambulance,in,?
+ADLTIMUNPCT,Immunizations - Adult (routine),in,?
+AADLTREDXLPY,Diagnostic X-rays and Lab tests (routine),in,?
+APRSTSSRNPY,Prostate Cancer Screening - PSA (routine),in,?
+ACOLRECSCRPY,Colon cancer screenings (routine),in,?
+ACOLNPCT,Colon cancer screenings (routine),in,?
+PREVADLTROUT,Exam - Routine Adult physical,in,?
+ACHOLSCRPCT,Diagnostic X-rays and Lab tests (routine),in,?
+WLWMPAPPCT,Pap smear (routine),in,?
+WWMAMPCT,Mammography (routine),in,?
+AWWGYNEEXMP,Well Woman Exam,in,?
+PHOPCT,Office Visits Office Professional,in,?
+URGCAREPCT,Urgent Care Office Professional,in,?
+AONCLVSTPCT,LiveHealth Online,in,?
+AINJPAYPCT,Injections Office Professional,in,?
+AALRGTESTPAY,Allergy Testing,in,?
+ALRGTXCOPCT,Allergy Treatment,in,?
+ADERMAPAYPCT,Office Visits Office Professional,in,?
+ADERMSURGPY,Surgery Office Professional,in,?
+ADERMLABPAY,DXL In Office,in,?
+DIABEDPCT,Diabetes Education/Diabetic Nutritional Counseling Office Professional,in,?
+ADIABSUPPAY,Diabetic Supply,in,?
+CONPCT,Second Opinion Office Professional,in,?
+DENINJPCT,Dental,in,?
+DXLPCTPD,DXL In Office,in,?
+ALRGTSTPCT,Allergy Testing,in,?
+HEMPCT,Dialysis/Hemodialysis Therapy Office Professional,in,?
+CHEMOPCT,Chemotherapy Office Professional,in,?
+RADTHERPCT,Radiation Therapy Office Professional,in,?
+SURGPCT,Surgery Office Professional,in,?
+SURSSOPCON,Second Opinion Office Professional,in,?
+VISGLSFLWSUR,Maternity Care Outpatient Professional,in,?
+CONTAFSRGPCT,Maternity Care Outpatient Professional,in,?
+OBPCT,Maternity Care Office Professional Visit,in,?
+OBPREPSTVST,Maternity Care Outpatient Professional,in,?
+FAMPLNPCT,Office Visits Office Professional,in,?
+OBSTRLPCT,Sterilization - services that do not meet,in,?
+PHTPCTPD,Physical Therapy Office Professional,in,?
+PHTCHRPCT,Chiropractic Office Professional,in,?
+PHTSPTPCT,Speech Therapy Office Professional,in,?
+PHTOCCTPCT,Occupational Therapy Office Professional,in,?
+RESPTHPCT,Respiratory Therapy Office Professional,in,?
+CARDREHABPCT,Cardiac Rehab Office Professional,in,?
+DMEPCTPD,Durable Medical Equipment,in,?
+AMEDSUPLYPAY,Medical Supply,in,?
+DMETMJPCT,TMJ Treatment,in,?
+TMJAPPLPCT,TMJ Treatment,in,?
+HHCPCT,Home Health Care,in,?
+HSPPCT,Hospice,in,?
+AINPTRESCPY,Hospice,in,?
+NURSPRVTPCT,Private Duty Nursing,in,?
+ARESHSPPAY,Mental Health - Residential Treatment Centers - Inpatient,in,?
+INPNMPCT,Mental Health - Inpatient Institutional,in,?
+PARTHOSPCT,Mental Health - Partial Hospitalization (PHP) Institutional,in,?
+OUTPNMPCT,Mental Health - Outpatient Institutional,in,?
+AOICNMPCT,Mental Health - Intensive Outpatient Therapy (IOP) Institutional,in,?
+PROFNMPCT,Mental Health - Office Professional,in,?
+NMMWHPCT,Mental Health - Inpatient Professional,in,?
+ANMONLINVSP,LiveHealth Online - Mental Health,in,?
+ATELTHBHPAY,Online Visits (Telehealth) - Mental Health,in,?
+ATELEPHBHPAY,Telephonic Visits - Mental Health,in,?
+INPTSAPCT,Alcohol/Substance Abuse - Inpatient Institutional,in,?
+SAPARTHSP,Alcohol/Substance Abuse - Partial Hospitalization (PHP) Institutional,in,?
+ARESHOSPCT,Alcohol/Substance Abuse - Residential Treatment Centers - Inpatient,in,?
+OTPSAPCT,Alcohol/Substance Abuse - Outpatient Institutional,in,?
+AOICSAPCT,Alcohol/Substance Abuse - Intensive Outpatient Therapy (IOP) Institutional,in,?
+PROFSAPCT,Alcohol/Substance Abuse - Office Professional,in,?
+PSAMWHPCT,Alcohol/Substance Abuse - Inpatient Professional,in,?
